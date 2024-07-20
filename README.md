@@ -1,4 +1,4 @@
-# Hi there, I'm Shazib Zaffar 👋
+# Hi there, I'm Umais Nisar 👋
 
 Welcome to my GitHub profile! I am a Full Stack Developer working at Enable App Inc. since February 2023. I specialize in Blazor frontend development with the Telerik Library, ASP.NET Core backend, and MSSQL as the database. I am passionate about creating efficient, scalable, and clean applications.
 
